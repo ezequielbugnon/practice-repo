@@ -1,1 +1,5 @@
 package sort
+
+func BucketSort() {
+
+}
