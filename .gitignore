@@ -1,0 +1,13 @@
+# Hugo (dentro de algorithms-docs)
+algorithms-docs/public/
+algorithms-docs/resources/
+algorithms-docs/.hugo_build.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
