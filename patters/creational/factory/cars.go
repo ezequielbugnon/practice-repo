@@ -11,7 +11,7 @@ type Car struct {
 	marca string
 }
 
-func NewCar(name, marca string) *Car {
+func NewCar(name, marca string) ICar {
 	return &Car{
 		name:  name,
 		marca: marca,
